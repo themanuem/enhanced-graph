@@ -1,9 +1,0 @@
-{
-  "id": "enhanced-graph",
-  "name": "Enhanced Graph",
-  "version": "0.1.0",
-  "minAppVersion": "1.7.2",
-  "description": "Enhanced graph view with Iconic icons, named edges, link filters, and keyboard navigation",
-  "author": "Manuel Eguren",
-  "isDesktopOnly": true
-}
